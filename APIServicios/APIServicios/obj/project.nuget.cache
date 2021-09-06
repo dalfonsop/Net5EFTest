@@ -1,15 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "PVzl5btXRZazDBnl8BB2shk/7ia0Zmq3tTpWMcgO039z6pB18iBih6kLlAtTB+mIOshJ4UrpBiFknQptTiJGAQ==",
+  "dgSpecHash": "QQMEYC6sEe4AD5jHSAQaTA/8DUfPyPmjABdBSx2PQQroV9nH0wR4wlqF+Rj6cBpx6qbnQUvCqQk5gF6Xz6wJuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dalfonso\\Documents\\ProyectoPruebaNet5EFCore\\APIServicios\\APIServicios\\APIServicios.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dalfonso\\.nuget\\packages\\firebaseadmin\\2.2.0\\firebaseadmin.2.2.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\dalfonso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\dalfonso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\dalfonso\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
   ],
   "logs": []
 }
