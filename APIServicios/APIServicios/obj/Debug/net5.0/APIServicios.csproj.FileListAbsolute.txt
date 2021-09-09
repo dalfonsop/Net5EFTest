@@ -27,3 +27,13 @@ C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\o
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\obj\Debug\net5.0\ref\APIServicios.dll
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\obj\Debug\net5.0\APIServicios.pdb
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\obj\Debug\net5.0\APIServicios.genruntimeconfig.cache
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\FirebaseAdmin.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Api.Gax.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Api.Gax.Rest.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.Sheets.v4.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Newtonsoft.Json.dll
