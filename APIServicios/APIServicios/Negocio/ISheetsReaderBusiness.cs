@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace APIServicios.Negocio
 {
-    public interface ISheetsReader
+    public interface ISheetsReaderBusiness
     {
         public byte[] readSheet();
+        public  Task<List<Object>> startExec();
     }
 }

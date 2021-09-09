@@ -1,3 +1,4 @@
+using APIServicios.Negocio;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +33,7 @@ namespace APIServicios
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "APIServicios", Version = "v1" });
             });
+            services.AddTransient<ISheetsReaderBusiness, SheetsReaderBusiness>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

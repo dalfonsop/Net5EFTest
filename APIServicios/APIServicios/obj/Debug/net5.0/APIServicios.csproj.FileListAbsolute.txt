@@ -37,3 +37,5 @@ C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\b
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Google.Apis.Sheets.v4.dll
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\dalfonso\Documents\ProyectoPruebaNet5EFCore\APIServicios\APIServicios\bin\Debug\net5.0\google-credentials.json

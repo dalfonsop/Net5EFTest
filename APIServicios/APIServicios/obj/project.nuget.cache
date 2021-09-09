@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b4kgOVk+R4OEYsMG/EKW4m/DNEuI/UHJJVqVUnrpIsipN93Uo6mmz93iLta1E1UDXRpW/k1vruP5kF0AkwFTuQ==",
+  "dgSpecHash": "9Zk7fZLaqDEI6Qr64u6xWKlUzJYOXx5oFA1ZRSem0xbQoPhfkYfsRcW4RD98Vq2dXZnvjQSnFxAQnI/BcNDpAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dalfonso\\Documents\\ProyectoPruebaNet5EFCore\\APIServicios\\APIServicios\\APIServicios.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dalfonso\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\firebaseadmin\\2.2.0\\firebaseadmin.2.2.0.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
     "C:\\Users\\dalfonso\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",

@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using APIServicios.Negocio;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,13 +13,17 @@ namespace APIServicios.Controllers
     [ApiController]
     public class RegistroController : ControllerBase
     {
-
+        private readonly ISheetsReaderBusiness _sheetsReaderBusiness;
+        public RegistroController(ISheetsReaderBusiness sheetsReaderBusiness)
+        {
+            this._sheetsReaderBusiness = sheetsReaderBusiness;
+        }
 
         [HttpGet]
-        public IEnumerable<Object> Get()
+        public async Task<IActionResult> Get()
         {
-            var rng = new Random();
-            return new List<Object>() ;
+            var a = await _sheetsReaderBusiness.startExec();
+            return Ok(JsonConvert.SerializeObject(a)) ;
         }
     }
 }
